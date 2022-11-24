@@ -23,7 +23,7 @@ class LoginUser{
                 if($user['password'] == $this->password){
                     session_start();
                     $_SESSION['user'] = $this->username;
-                    header("location: dashboard.php");
+                    header("location: login.php");
                     exit();
                 }
                 
