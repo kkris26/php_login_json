@@ -24,7 +24,7 @@
     <div class="container">
       <div class="box ">
         <div class="content d-flex justify-content-center align-items-center">
-          <h1 class="text-center">Selamat Anda Berhasil Login </h1>
+          <h1 class="text-center">Selamat Anda Berhasil Login</h1>
         </div>
       </div>
     </div>
